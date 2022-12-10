@@ -1,6 +1,6 @@
 package showable.pages;
 
-import configuration.WebOperations;
+import configuration.web.WebOperations;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

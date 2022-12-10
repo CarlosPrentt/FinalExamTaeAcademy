@@ -4,7 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e038c5c-37f8-4e2b-a76c-3480ad223346" name="Changes" comment="" />
+    <list default="true" id="7e038c5c-37f8-4e2b-a76c-3480ad223346" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/configuration/mobile/ConfigCapabilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/configuration/mobile/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/configuration/mobile/MobileOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/MobileRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/showable/screens/AddPlanScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/showable/screens/BaseScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/showable/screens/DashboardScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/showable/screens/MapScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/showable/screens/MenuScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/showable/screens/PrivacyAndLegalScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/mobile/AndroidDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/mobile/mobileTest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/mobile_capabilities.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalExamESPN.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/FinalExamESPN.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalExamESPN.iws" beforeDir="false" afterPath="$PROJECT_DIR$/FinalExamESPN.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/configuration/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/configuration/web/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/configuration/Reporter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/configuration/WebOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/configuration/web/WebOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/showable/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/showable/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/showable/pages/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/showable/pages/LandingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/showable/pages/WatchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/showable/pages/WatchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/mobile/MobileHook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/mobile/MobileStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/mobile/MobileStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/web/WebHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/web/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/web/WebStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/web/WebStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/configuration/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/configuration/Reporter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/configuration/WebOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/showable/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/showable/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/showable/pages/LandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/showable/pages/LandingPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/showable/pages/WatchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/showable/pages/WatchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/web/WebHooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/web/WebStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/web/WebStep.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,16 +283,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\carlos.ferro\Desktop\FinalExamESPN\src\test\resources" />
@@ -279,6 +314,25 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: mobileTest" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/mobile/mobileTest.feature" />
+      <option name="GLUE" value="stepDefinitions.web" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="FinalExamESPN" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: mobileTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -391,6 +445,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: mobileTest" />
         <item itemvalue="Cucumber Java.Scenario: Log out" />
         <item itemvalue="Cucumber Java.Scenario: Watch Page" />
         <item itemvalue="TestNG.WebRunner" />

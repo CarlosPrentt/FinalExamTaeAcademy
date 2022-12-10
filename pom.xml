@@ -18,12 +18,12 @@
     <maven.compiler.target>1.7</maven.compiler.target>
     <testng.version>7.6.1</testng.version>
     <webdrivermanager.version>5.3.1</webdrivermanager.version>
-    <selenium.version>4.6.0</selenium.version>
-    <selenium-support.version>4.6.0</selenium-support.version>
+    <selenium.version>3.141.59</selenium.version>
+    <selenium-support.version>3.141.59</selenium-support.version>
     <slf4j.version>2.0.4</slf4j.version>
     <hamcrest.version>2.2</hamcrest.version>
     <gson.version>2.10</gson.version>
-    <appium.version>8.2.1</appium.version>
+    <appium.version>7.2.0</appium.version>
     <cucumber.version>7.9.0</cucumber.version>
     <cucumber-testng>7.9.0</cucumber-testng>
   </properties>
@@ -65,6 +65,11 @@
       <artifactId>slf4j-reload4j</artifactId>
       <version>${slf4j.version}</version>
       <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+      <version>1.2.17</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest -->
     <dependency>

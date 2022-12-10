@@ -10,13 +10,13 @@ public class WebStep {
 
     private String name = "Carlos";
     private String lastName = "Ferro";
-    private String emailRegister = "tyra@gmail.com";
+    private String emailRegister = "tyrantr@gmail.com";
     private String passwordRegister = "holiwis23";
     private String emailLogin = "carlo.e@gmail.com";
     private String passwordLogin = "holiwis23";
-    private HomePage home = new HomePage(WebHook.getDriver());
+    private HomePage home = new HomePage(Hooks.getDriver());
 
-    private WatchPage watch = new WatchPage(WebHook.getDriver());
+    private WatchPage watch = new WatchPage(Hooks.getDriver());
     //Sign Up
     @Given("the user click to login")
     public void the_user_click_to_login() {

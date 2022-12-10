@@ -1,4 +1,4 @@
-package configuration;
+package configuration.web;
 
 import io.appium.java_client.MobileBy;
 import org.openqa.selenium.InvalidSelectorException;
@@ -19,7 +19,7 @@ public class WebOperations {
 
     public WebOperations(WebDriver driver){
         this.driver = driver;
-        this.wait = new WebDriverWait(driver, Duration.ofSeconds(5L));
+        this.wait = new WebDriverWait(driver, (5L));
         initElements(driver, this);
     }
 

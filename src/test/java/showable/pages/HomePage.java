@@ -1,14 +1,10 @@
 package showable.pages;
 
-import configuration.WebOperations;
-import org.openqa.selenium.By;
+import configuration.web.WebOperations;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.FindBy;
-
-import java.util.List;
 
 public class HomePage extends WebOperations {
     public HomePage(WebDriver driver) {
