@@ -10,7 +10,7 @@ public class WebStep {
 
     private String name = "Carlos";
     private String lastName = "Ferro";
-    private String emailRegister = "tyrantr@gmail.com";
+    private String emailRegister = "tyrantrum@gmail.com";
     private String passwordRegister = "holiwis23";
     private String emailLogin = "carlo.e@gmail.com";
     private String passwordLogin = "holiwis23";

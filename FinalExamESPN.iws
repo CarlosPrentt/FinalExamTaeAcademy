@@ -5,40 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e038c5c-37f8-4e2b-a76c-3480ad223346" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/configuration/mobile/ConfigCapabilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/configuration/mobile/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/configuration/mobile/MobileOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/MobileRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/showable/screens/AddPlanScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/showable/screens/BaseScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/showable/screens/DashboardScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/showable/screens/MapScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/showable/screens/MenuScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/showable/screens/PrivacyAndLegalScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/mobile/AndroidDriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/mobile/mobileTest.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/mobile_capabilities.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalExamESPN.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/FinalExamESPN.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/mobile/HooksMobile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FinalExamESPN.iws" beforeDir="false" afterPath="$PROJECT_DIR$/FinalExamESPN.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/configuration/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/configuration/web/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/configuration/Reporter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/configuration/WebOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/configuration/web/WebOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/showable/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/showable/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/showable/pages/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/showable/pages/LandingPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/showable/pages/WatchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/showable/pages/WatchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/mobile/MobileHook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/mobile/MobileStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/mobile/MobileStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/web/WebHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/web/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/configuration/mobile/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/configuration/mobile/DriverMobile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/web/WebStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/web/WebStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/configuration/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/configuration/Reporter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/configuration/WebOperations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/showable/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/showable/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/showable/pages/LandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/showable/pages/LandingPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/showable/pages/WatchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/showable/pages/WatchPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/web/WebHooks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/web/WebStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/web/WebStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/configuration/mobile/Driver.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
